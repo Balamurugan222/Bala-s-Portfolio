@@ -1,5 +1,5 @@
 import React from 'react'
-import Bala from '../assets/images/Bala Profile images.png'
+import Bala from '../assets/images/profile-photo.jpeg'
 
 const Hero = () => {
   return (
@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
 
           <h2 className="text-xl sm:text-2xl mt-3 text-slate-900">
-            Software Engineer
+            Engineer
           </h2>
 
           <p className="mt-5 text-slate-900 leading-relaxed text-sm sm:text-base max-w-md mx-auto md:mx-0">
